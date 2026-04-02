@@ -1,2 +1,1 @@
-# TP GitHub
-Ce projet est créé par Lamraoui Chiraz dans le cadre du TP GitHub
+Ce projet est créé par Lamraoui Chiraz avec une page login ajoutée.
